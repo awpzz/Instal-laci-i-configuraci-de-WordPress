@@ -22,9 +22,7 @@
         <li><strong>Portada i pàgina de contacte</strong>: El portal compta amb una pàgina principal i un formulari de contacte funcional.</li>
         <li><strong>Plugins i extensions</strong>: S'han afegit diverses extensions per ampliar les funcionalitats del blog.</li>
         <li><strong>Mapa interactiu</strong>: S'ha incorporat un mapa de Google Maps o OpenStreetMaps per proporcionar informació geogràfica.</li>
-        <li><strong>Pàgines personalitzades</strong>: El portal inclou almenys tres pàgines personalitzades creades específicament per a aquest projecte.</li>
-        <li><strong>Suport multilingüe</strong>: Mitjançant l'extensió Polylang, el blog està disponible en diversos idiomes.</li>
-    </ul>
+        <li><strong>Pàgines personalitzades</strong>: El portal inclou almenys tres pàgines personalitzades creades específicament per a aquest projecte.</li>    </ul>
     </ol>
     <h2>Consideracions finals</h2>
     <p>El blog s'ha desenvolupat sense utilitzar plantilles predefinides, implementant un disseny propi i personalitzat. La gestió d'usuaris ha estat configurada amb diferents nivells de permisos per garantir un control adequat del contingut.</p>  
