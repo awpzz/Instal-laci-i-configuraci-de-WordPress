@@ -11,7 +11,7 @@
     <ul>
         <li><strong>Entrades del blog</strong>: S'han creat almenys tres entrades amb informació detallada sobre el joc Go, incloent-ne la seva història, estratègies bàsiques i regles fonamentals.</li>
         <li><strong>Publicació programada</strong>: Una de les entrades està configurada per publicar-se automàticament el 14 de febrer de 2025.</li>
-        <li><strong>Opcions personalitzades</strong>: Algunes entrades disposen de configuracions especials com per exemple contraseña.</li>
+        <li><strong>Opcions personalitzades</strong>: Algunes entrades disposen de configuracions especials com per exemple contraseña. (1234) </li>
         <li><strong>Funcionalitats addicionals</strong>: S'han afegit anuncis publicitaris i una funció de cerca per millorar l'experiència de l'usuari.</li>
         <li><strong>Categorització</strong>: El blog està organitzat en dues categories principals, amb almenys dues entrades en cadascuna.</li>
         <li><strong>Gestió d'usuaris i permisos</strong>: S'han creat diferents rols d'usuaris amb permisos específics per controlar l'accés i l'edició del contingut.</li>
