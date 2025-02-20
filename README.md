@@ -26,6 +26,5 @@
     </ol>
     <h2>Consideracions finals</h2>
     <p>El blog s'ha desenvolupat sense utilitzar plantilles predefinides, implementant un disseny propi i personalitzat. La gestió d'usuaris ha estat configurada amb diferents nivells de permisos per garantir un control adequat del contingut.</p>  
-    <p>Gràcies per revisar aquest projecte.</p>
 </body>
 </html>
